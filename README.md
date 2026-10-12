@@ -2,7 +2,7 @@
 
 **💻 Software Developer | Java Full Stack Enthusiast**
 
-🔭 Currently working as **Software Engineer** at **Hospique Software PVT LTD**, Hyderabad, Telangana  
+🔭 Currently working as **Software Engineer** at **Cozentus**, Bhubaneswar, Odisha  
 🌱 Passionate about building scalable web applications and exploring the latest in tech  .
 🚀 Quick learner, highly adaptable, up to speed in latest programming trends and always eager to grow.
 🧠 Interests:  
